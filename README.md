@@ -39,7 +39,7 @@ MongoDB (local or Atlas)
 
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/triptrove.git
+git clone https://github.com/Aastha-Rajput/triptrove.git
 
 # Navigate to the project directory
 cd triptrove
