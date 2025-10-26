@@ -104,6 +104,6 @@ Open a Pull Request
 
 Contact:
 
-Project Maintainer: Aastha Rajput
+Project Maintainer: Aastha Rajput , vidhya rai, shashank shukla
 
-Email:aastharajput379@gmail.com
+Email:aastharajput379@gmail.com, raividhya1201@gmail.com, shashankshukla0098@gmail.com
