@@ -38,7 +38,7 @@ app.post("/recommendations", async (req, res) => {
       return res.status(400).json({ error: "City and vibe are required" });
 
     const apiKey = process.env.GEMINI_API_KEY;
-    const modelName = process.env.GEMINI_MODEL || "gemini-1.5-flash";
+    const modelName = process.env.GEMINI_MODEL || "gemini-2.0-flash";
 
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent`;
 
